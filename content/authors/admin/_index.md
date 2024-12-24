@@ -112,15 +112,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Team Project
+        description: ""
+        percent: 70
+        icon: code-bracket
+      - name: cooking
         description: ""
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ""
-        percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: coding
         description: ""
         percent: 40
         icon: circle-stack
