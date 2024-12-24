@@ -112,7 +112,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Team Project
+      - name: Team
         description: ""
         percent: 70
         icon: code-bracket
