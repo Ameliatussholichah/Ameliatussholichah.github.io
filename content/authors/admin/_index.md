@@ -61,10 +61,10 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: language and culture department
+    institution: SMA Negeri 1 Paciran
+    date_start: 2019-01-01
+    date_end: 2022-12-31
     summary: |
       GPA: 3.8/4.0
 
