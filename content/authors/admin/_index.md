@@ -36,15 +36,11 @@ profiles:
   - icon: brands/x
     url: https://x.com/ameelliao_o
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ameliatuss_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Ameliatussholichah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/ameliatus-sholichah-0ab0a3344/
 
 interests:
   - Artificial Intelligence
