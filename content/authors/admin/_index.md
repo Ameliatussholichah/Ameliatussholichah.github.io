@@ -43,15 +43,15 @@ profiles:
     url: https://www.linkedin.com/in/ameliatus-sholichah-0ab0a3344/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cooking
+  - Baking
+  - Project Team
 
 education:
   - area: Software Engineering
     institution: ITESA Muhammadiyah Semarang
-    date_start: 2023-09-25
-    date_end: 2027-08-10
+    date_start: 2023
+    date_end: 2027
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -59,8 +59,8 @@ education:
       url: "https://example.com"
   - area: language and culture department
     institution: SMA Negeri 1 Paciran
-    date_start: 2019-01-01
-    date_end: 2022-12-31
+    date_start: 2019
+    date_end: 2022
     summary: |
       GPA: 3.8/4.0
 
@@ -68,10 +68,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area:
+    institution: SMP Negeri 2 Paciran
+    date_start: 2016
+    date_end: 2019
     summary: |
       GPA: 3.4/4.0
 
