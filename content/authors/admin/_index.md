@@ -34,7 +34,7 @@ profiles:
     url: "mailto:your-ameliatussholichah@gmail.com"
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/ameelliao_o
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
