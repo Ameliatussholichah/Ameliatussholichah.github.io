@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Ameliatus Sholichah is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Saya adalah seorang mahasiswa jurusan S1 Rekayasa Perangkat Lunak dari Institut Statistika dan Bisnis Muhammdiyah Semarang. Saya merupakan pribadi yang suka berkomunikasi dan memiliki ketertarikan di bidang IT, terbiasa berbaur dengan orang-orang baru, disiplin dan mampu bekerja dengan baik dalam Tim.
