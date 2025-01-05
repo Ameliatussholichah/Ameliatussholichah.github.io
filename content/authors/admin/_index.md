@@ -11,7 +11,7 @@ last_name: Sholichah
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍰
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Pengusaha
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Dicoding
-    url: https://www.dicoding.com/
+role: PENGUSAHA
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -57,7 +52,7 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: language and culture department
+  - area: Language and Culture department
     institution: SMA Negeri 1 Paciran
     date_start: 2019
     date_end: 2022
@@ -68,7 +63,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area:
+  - area: General Studies
     institution: SMP Negeri 2 Paciran
     date_start: 2016
     date_end: 2019
