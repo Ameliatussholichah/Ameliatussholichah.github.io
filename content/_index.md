@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: My Passion
       filters:
         folders:
           - publication
