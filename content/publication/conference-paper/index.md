@@ -48,7 +48,6 @@ url_video: "https://youtube.com"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 
@@ -75,5 +74,3 @@ Click the _pdf_ button to see and learn my baking recipes.
 {{% callout note %}}
 Click the _video_ button to check out the tutorial.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
