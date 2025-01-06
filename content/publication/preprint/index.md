@@ -34,13 +34,6 @@ url_project: ""
 url_slides: ""
 url_video: "#"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
-  focal_point: ""
-  preview_only: false
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -57,8 +50,6 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
 {{% callout note %}}
 Click the _pdf_ button to see and learn my cooking recipes.
 {{% /callout %}}
@@ -66,5 +57,3 @@ Click the _pdf_ button to see and learn my cooking recipes.
 {{% callout note %}}
 Click the _Video_ button to check out the tutorial.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
