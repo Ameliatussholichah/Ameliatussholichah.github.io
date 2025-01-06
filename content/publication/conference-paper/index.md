@@ -40,7 +40,7 @@ featured: true
 # links:
 
 url_pdf: ""
-url_poster: ""
+url_poster: "#"
 url_project: ""
 url_slides: ""
 url_video: "https://youtube.com"
@@ -69,11 +69,11 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the _pdf_ button above to to see and learn my cooking recipes.
+Click the _pdf_ button to see and learn my baking recipes.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _video_ button to check out the tutorial.
+Click the _video_ button to check out the tutorial.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
