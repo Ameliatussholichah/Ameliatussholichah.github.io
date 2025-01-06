@@ -28,15 +28,10 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
-    url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: "https://github.com/HugoBlox/hugo-blox-builder"
-url_dataset: "#"
 url_poster: "#"
 url_project: ""
 url_slides: ""
-url_source: "#"
 url_video: "#"
 
 # Featured image
@@ -65,7 +60,11 @@ slides: example
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Click the _pdf_ button to see and learn my cooking recipes.
+{{% /callout %}}
+
+{{% callout note %}}
+Click the _Video_ button to check out the tutorial.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
