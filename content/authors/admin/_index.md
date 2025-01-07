@@ -119,7 +119,7 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Cooking
         description: ""
         percent: 60
         icon: person-simple-walk
@@ -129,14 +129,14 @@ skills:
         icon: cat
       - name: Photography
         description: ""
-        percent: 80
+        percent: 30
         icon: camera
 
 languages:
   - name: Indonesia
     percent: 100
   - name: English
-    percent: 75
+    percent: 50
   - name: Korea
     percent: 25
 
