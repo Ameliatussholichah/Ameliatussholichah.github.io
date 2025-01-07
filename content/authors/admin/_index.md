@@ -122,7 +122,7 @@ skills:
       - name: Cooking
         description: ""
         percent: 60
-        icon: person-simple-walk
+        icon: frying-pan
       - name: Cats
         description: ""
         percent: 100
