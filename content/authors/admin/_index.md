@@ -106,11 +106,11 @@ skills:
       - name: Team
         description: ""
         percent: 70
-        icon: code-bracket
+        icon: person-walking
       - name: cooking
         description: ""
         percent: 80
-        icon: chart-bar
+        icon: sun
       - name: coding
         description: ""
         percent: 40
@@ -136,7 +136,7 @@ languages:
   - name: Indonesia
     percent: 100
   - name: English
-    percent: 50
+    percent: 70
   - name: Korea
     percent: 25
 
