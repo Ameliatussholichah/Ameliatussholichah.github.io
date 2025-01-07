@@ -106,7 +106,7 @@ skills:
       - name: Team
         description: ""
         percent: 70
-        icon: transparency
+        icon: suit-heart
       - name: cooking
         description: ""
         percent: 80
