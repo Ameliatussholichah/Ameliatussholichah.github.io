@@ -11,7 +11,7 @@ main:
     url: /#interest
     weight: 11
   - name: Dreams
-    url: /#dreams
+    url: /#talks
     weight: 12
   - name: Experience
     url: experience/

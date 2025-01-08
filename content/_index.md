@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Plans That I Might do in the Future
       filters:
         folders:
           - event
@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title:
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...
