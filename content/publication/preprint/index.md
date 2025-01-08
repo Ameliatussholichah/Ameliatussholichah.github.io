@@ -25,6 +25,9 @@ summary: Cooking is an activity that I like, because by cooking I can channel my
 tags:
   - Indonesian cuisine is a favorite
 
+image:
+  caption: "Image credit: [**pinterest**](https://id.pinterest.com/)"
+
 featured: true
 
 links:
