@@ -10,7 +10,7 @@ address:
   country: Paciran
 
 summary: An example, maybe I will open a cake shop in the future.
-Reasons: "Saya ingin membuka toko kue karena hasrat dan kecintaan saya terhadap dunia kuliner, khususnya dalam seni membuat kue. Bagi saya, kue bukan hanya sekadar makanan penutup, tetapi juga simbol kebahagiaan, cinta, dan perayaan dalam setiap momen spesial.
+reasons: "Saya ingin membuka toko kue karena hasrat dan kecintaan saya terhadap dunia kuliner, khususnya dalam seni membuat kue. Bagi saya, kue bukan hanya sekadar makanan penutup, tetapi juga simbol kebahagiaan, cinta, dan perayaan dalam setiap momen spesial.
 
 Membuat kue memberikan saya ruang untuk mengekspresikan kreativitas, memadukan rasa, dan menciptakan sesuatu yang bisa dinikmati oleh banyak orang. Saya ingin menghadirkan kehangatan dan kebahagiaan kepada pelanggan melalui produk-produk yang saya buat dengan penuh cinta dan dedikasi."
 
