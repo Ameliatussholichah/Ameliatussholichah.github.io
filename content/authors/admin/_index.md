@@ -45,7 +45,7 @@ interests:
 education:
   - area: Software Engineering
     institution: ITESA Muhammadiyah Semarang
-    date_start: 2023-25-09
+    date_start: 2023-09-25
     date_end: 2027-05-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
