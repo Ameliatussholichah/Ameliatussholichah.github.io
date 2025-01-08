@@ -32,7 +32,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: "#"
 url_project: ""
 url_slides: ""
-url_video: "#"
+url_video: https://www.youtube.com/watch?v=qZyBQ2UAg7c&list=PLGIwE2LVcERCY6B9ihMBPzzQaZKseJY8v
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
