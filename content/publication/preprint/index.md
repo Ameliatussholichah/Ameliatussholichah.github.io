@@ -28,7 +28,7 @@ image:
 featured: true
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: file:///C:/Users/Toshiba/Downloads/Resep%20masakan%20nusantara.pdf
 url_poster: "#"
 url_project: ""
 url_slides: ""
