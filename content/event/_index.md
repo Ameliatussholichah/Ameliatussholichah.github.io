@@ -1,7 +1,7 @@
 ---
 title: Plans That I Might do in the Future
 cms_exclude: true
-#url: talk
+#url: dreams
 
 # View
 view: card
