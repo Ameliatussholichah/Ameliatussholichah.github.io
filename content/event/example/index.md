@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: "Image credit: [**pinterest**](https://id.pinterest.com/)"
   focal_point: Right
 
 #links:
@@ -41,9 +41,9 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: "https://github.com"
+url_code: ""
 url_pdf: ""
-url_slides: "https://slideshare.net"
+url_slides: ""
 url_video: "https://youtube.com"
 
 # Markdown Slides (optional).
