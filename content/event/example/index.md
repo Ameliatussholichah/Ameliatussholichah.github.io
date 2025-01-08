@@ -5,7 +5,6 @@ location: Indonesia
 address:
   street: Jl.Permata.0303
   city: Lamongan
-  region: CA
   postcode: "62264"
   country: Paciran
 
