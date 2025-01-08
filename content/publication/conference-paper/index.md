@@ -39,7 +39,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 
-url_pdf: ""
+url_pdf: file:///C:/Users/Toshiba/Downloads/Resep%20masakan%20nusantara.pdf
 url_poster: "#"
 url_project: ""
 url_slides: ""
