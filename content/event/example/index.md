@@ -1,24 +1,23 @@
 ---
 title: For Example
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
-
-location: Hugo Blox Builder HQ
+location: Indonesia
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Jl.Permata.0303
+  city: Lamongan
   region: CA
-  postcode: "94305"
-  country: United States
+  postcode: "62264"
+  country: Paciran
 
 summary: An example, maybe I will open a cake shop in the future.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+Reasons: "Saya ingin membuka toko kue karena hasrat dan kecintaan saya terhadap dunia kuliner, khususnya dalam seni membuat kue. Bagi saya, kue bukan hanya sekadar makanan penutup, tetapi juga simbol kebahagiaan, cinta, dan perayaan dalam setiap momen spesial.
+
+Membuat kue memberikan saya ruang untuk mengekspresikan kreativitas, memadukan rasa, dan menciptakan sesuatu yang bisa dinikmati oleh banyak orang. Saya ingin menghadirkan kehangatan dan kebahagiaan kepada pelanggan melalui produk-produk yang saya buat dengan penuh cinta dan dedikasi."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2027-06-01T13:00:00Z"
-date_end: "2027-06-01T15:00:00Z"
+date: "2027-06-01"
+date_end: "2027-06-01"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
