@@ -45,8 +45,8 @@ interests:
 education:
   - area: Software Engineering
     institution: ITESA Muhammadiyah Semarang
-    date_start: 2023
-    date_end: 2027
+    date_start: 2023-25-09
+    date_end: 2027-05-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -54,8 +54,8 @@ education:
       url: "https://example.com"
   - area: Language and Culture department
     institution: SMA Negeri 1 Paciran
-    date_start: 2019
-    date_end: 2022
+    date_start: 2019-07-10
+    date_end: 2022-06-02
     summary: |
       GPA: 3.8/4.0
 
@@ -65,8 +65,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: General Studies
     institution: SMP Negeri 2 Paciran
-    date_start: 2016
-    date_end: "2019"
+    date_start: 2016-07-07
+    date_end: 2019-07-07
     summary: |
       GPA: 3.4/4.0
 
