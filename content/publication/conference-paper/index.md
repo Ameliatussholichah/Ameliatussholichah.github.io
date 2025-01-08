@@ -43,7 +43,7 @@ url_pdf: ""
 url_poster: "#"
 url_project: ""
 url_slides: ""
-url_video: "https://youtube.com"
+url_video: https://www.youtube.com/watch?v=BJTPGYkFR5I
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
