@@ -28,7 +28,7 @@ image:
 featured: true
 
 links:
-url_pdf: file:///C:/Users/Toshiba/Downloads/Resep%20masakan%20nusantara.pdf
+url_pdf: https://drive.google.com/file/d/1mto4UOWdeLWKYzasObwreSd4XXOpiK_m/view?usp=drive_link
 url_poster: "#"
 url_project: ""
 url_slides: ""
