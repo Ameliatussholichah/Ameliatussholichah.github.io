@@ -66,7 +66,7 @@ education:
   - area: General Studies
     institution: SMP Negeri 2 Paciran
     date_start: 2016
-    date_end: 2019
+    date_end: "2019"
     summary: |
       GPA: 3.4/4.0
 
