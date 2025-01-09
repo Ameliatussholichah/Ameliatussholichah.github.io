@@ -142,7 +142,7 @@ awards:
     awarder: Regency
     summary: |
       I once took part in a district level pencak silat competition held by my internal pencak silat school in 2020, when I was still in high school, and getting 1st place was something that was quite proud for me.
-  - title: "Participant training of Cyber Security Ready4AI&Security-Indonesia"
+  - title: Participant training of Cyber Security Ready4AI&Security-Indonesia
     url: https://infradigitalfoundation.blob.core.windows.net/certificate/ready4ai&security/B74B16AC4.pdf
     certificate_url: https://infradigitalfoundation.blob.core.windows.net/certificate/ready4ai&security/B74B16AC4.pdf
     date: "2023-02-10"
