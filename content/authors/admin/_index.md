@@ -129,21 +129,17 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 1st place in general pencak silat competition
-    url: file:///C:/Users/Toshiba/Downloads/certificate%20juara%201%20IPSI.pdf
+    url: https://drive.google.com/file/d/1LDuPOmwkdzZ_-bTG-rodWWS_siozINUz/view?usp=drive_link
     date: "2020-11-22"
     awarder: IPSI
     summary: |
-      I took part in a pencak silat competition in 2020, when I was in high school, and winning first place was quite proud for me.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
-    icon: edx
+      I took part in a general pencak silat competition held by the Indonesian Pencak Silat Association in 2020, when I was in high school, and getting first place was quite proud for me.
+  - title: 1st place in internal pencak silat competition
+    url: https://drive.google.com/file/d/1wR8OwCefTqI7hL2b3RoMXUNPGiwLHG00/view?usp=drive_link
+    date: "2019-12-29"
+    awarder: Regency
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      I once took part in a district level pencak silat competition held by my internal pencak silat school in 2020, when I was still in high school, and getting 1st place was something that was quite proud for me.
   - title: "Object-Oriented Programming in R"
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
