@@ -48,32 +48,19 @@ education:
     date_start: 2023-09-25
     date_end: 2027-05-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      I majored in software engineering at ITESA Muhammadiyah Semarang because I wanted to learn more about programming and become rich.
   - area: Language and Culture department
     institution: SMA Negeri 1 Paciran
     date_start: 2019-07-10
     date_end: 2022-06-02
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      In high school I majored in language and culture because I liked studying Indonesian.
   - area: General Studies
     institution: SMP Negeri 2 Paciran
     date_start: 2016-07-07
     date_end: 2019-07-07
     summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      When I was in junior high school, I studied more about general subjects.
 work:
   - position: Waiter at an Indonesian Restaurant
     company_name: Kurnia Jatim Restaurant
@@ -84,17 +71,15 @@ work:
     summary: |2-
       Explanation:
       I once worked as a waiter in an Indonesian Restaurant.
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Waitress at the juice shop
+    company_name: Kedai Lezzato
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-15
+    date_end: 2023-09-25
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Explanation:
+      I once worked as a waitress at a juice shop.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -104,7 +89,7 @@ skills:
       - name: Team
         description: ""
         percent: 70
-        icon: suit-heart
+        icon: heart
       - name: cooking
         description: ""
         percent: 80
