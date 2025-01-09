@@ -129,7 +129,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 1st place in general pencak silat competition
-    url: file:///C:/Users/Toshiba/Downloads/CamScanner%2010-06-2022%2017.44.pdf
+    url: https://drive.google.com/file/d/1LDuPOmwkdzZ_-bTG-rodWWS_siozINUz/view?usp=drive_link
     date: "2020-11-22"
     awarder: IPSI
     summary: |
