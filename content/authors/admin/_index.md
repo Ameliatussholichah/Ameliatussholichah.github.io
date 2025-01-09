@@ -75,17 +75,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Waiter at an Indonesian Restaurant
+    company_name: Kurnia Jatim Restaurant
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: 2022-11-10
+    date_end: 2023-04-15
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Explanation:
+      I once worked as a waiter in an Indonesian Restaurant.
   - position: Backend Software Engineer
     company_name: X
     company_url: ""
