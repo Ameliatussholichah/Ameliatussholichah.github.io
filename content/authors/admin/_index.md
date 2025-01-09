@@ -129,13 +129,15 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 1st place in general pencak silat competition
-    url: https://drive.google.com/file/d/1LDuPOmwkdzZ_-bTG-rodWWS_siozINUz/view?usp=drive_link
+    url: https://rm.id/baca-berita/nasional/42176/BASE_URL
+    certificate_url: https://drive.google.com/file/d/1LDuPOmwkdzZ_-bTG-rodWWS_siozINUz/view?usp=drive_link
     date: "2020-11-22"
     awarder: IPSI
     summary: |
       I took part in a general pencak silat competition held by the Indonesian Pencak Silat Association in 2020, when I was in high school, and getting first place was quite proud for me.
   - title: 1st place in internal pencak silat competition
-    url: https://drive.google.com/file/d/1wR8OwCefTqI7hL2b3RoMXUNPGiwLHG00/view?usp=drive_link
+    url: https://timesindonesia.co.id/olahraga/244871/331-pesilat-muda-beradu-di-kejuaraan-sh-terate-cup-vii-2019-lamongan
+    certificate_url: https://drive.google.com/file/d/1wR8OwCefTqI7hL2b3RoMXUNPGiwLHG00/view?usp=drive_link
     date: "2019-12-29"
     awarder: Regency
     summary: |
