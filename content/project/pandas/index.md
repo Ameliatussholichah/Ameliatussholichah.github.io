@@ -6,6 +6,6 @@ tags:
   - Company Profile
 ---
 
-Ini adalah Project yang saya buat bersama Team saya yang berisi tentang Profil Perusahaan yang mungkin akan Kami buat di Masa Depan.
+Ini adalah Project Company Profile yang saya buat bersama Team saya yang berisi tentang Profil Perusahaan yang mungkin akan Kami buat di Masa Depan.
 
 <!--more-->
