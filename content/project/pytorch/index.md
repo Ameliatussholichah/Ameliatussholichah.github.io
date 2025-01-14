@@ -6,6 +6,6 @@ tags:
   - Project
 ---
 
-Ini adalah Prototype rancangan awal atau model fisik dari produk yang saya buat untuk menguji dan mengevaluasi konsep sebelum diproduksi secara massal. Prototype dibuat untuk mengidentifikasi kelemahan, melakukan perbaikan, dan mendapatkan umpan balik dari pengguna.
+Ini adalah Prototype rancangan awal atau model fisik dari produk yang saya buat untuk menguji dan mengevaluasi konsep sebelum diproduksi secara massal. Prototype dibuat untuk mengidentifikasi kelemahan dan melakukan perbaikan.
 
 <!--more-->
