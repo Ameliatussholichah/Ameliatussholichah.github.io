@@ -1,9 +1,8 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Prototype Design Aplikasi FoodWalk
+date: 2024-12-15
+external_link: https://www.figma.com/design/bnzXmArD93ZjoKUX8eFa4M/FoodWalk?node-id=1-4&p=f&t=tflITKx30HhprnIN-0
 tags:
-  - Hugo
   - Wowchemy
   - Markdown
 ---
