@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Harmony Event
+date: 2023-12-25
+external_link: https://www.canva.com/design/DAGJxXMlMkg/40T2V-v6pt9PGmQODBEE6g/edit
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Company Profile
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Ini adalah Project yang saya buat bersama Team saya yang berisi tentang Profil Perusahaan yang mungkin akan Kami buat di Masa Depan.
 
 <!--more-->
