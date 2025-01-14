@@ -62,7 +62,7 @@ education:
     summary: |
       When I was in junior high school, I studied more about general subjects.
 work:
-  - position: Waiter at an Indonesian Restaurant
+  - position: Waiters at an Indonesian Restaurant
     company_name: Kurnia Jatim Restaurant
     company_url: ""
     company_logo: ""
@@ -71,7 +71,7 @@ work:
     summary: |2-
       Explanation:
       I once worked as a waiter in an Indonesian Restaurant.
-  - position: Waitress at the juice shop
+  - position: Waitres at the juice shop
     company_name: Kedai Lezzato
     company_url: ""
     company_logo: ""
@@ -119,7 +119,7 @@ languages:
   - name: Indonesia
     percent: 100
   - name: English
-    percent: 70
+    percent: 60
   - name: Korea
     percent: 25
 
