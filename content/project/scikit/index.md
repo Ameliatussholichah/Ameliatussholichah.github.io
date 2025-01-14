@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: DataViz-ggplot
+date: 2024-12-25
+external_link: https://github.com/Ameliatussholichah/dataviz-ggplot
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Data Visual
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Visualisasi data adalah proses menggunakan elemen visual seperti diagram, grafik, atau peta untuk merepresentasikan data menjadi representasi visual yang lebih mudah diproses.
 
 <!--more-->
